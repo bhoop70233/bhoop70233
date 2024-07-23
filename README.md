@@ -1,4 +1,14 @@
-<div align="center">
+<h6 align="left">Hi there ,I'm Bhoop Singh</h6>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bhoop70233.bhoop70233&"  />
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/bhoop-singh-3b41b41a9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Bhoop&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -15,16 +25,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bhoop70233.bhoop70233&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -75,43 +75,10 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhoop70233&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="115" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=bhoop70233&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhoop70233/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhoop70233/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhoop70233/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhoop70233/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhoop70233/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhoop70233/count.svg?"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoop70233&theme=one-dark&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=bhoop70233&theme=darkhub&row=2&column=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
