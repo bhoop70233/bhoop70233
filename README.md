@@ -32,8 +32,8 @@
 
 ###
 
-<p align="left">I'm Bhoop Singh from Bagheri khurd, India<br><br>🔭 I am Currently working as Data Scientist at CTAE<br>🌱 I’m currently Learning Computer Vision and LLms,ViT😎.<br><br>🥅 2024 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.<br><br>⚡ Fun fact: I love to AI World [✍️]
- <a href="https://github.com/bhoop70233/AI-World" target="_blank">.
+<p align="left">I'm Bhoop Singh from Bagheri khurd, India<br><br>🔭 I am Currently working as Data Scientist at CTAE<br>🌱 I’m currently Learning Computer Vision and LLms,ViT😎.<br><br>🥅 2024 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.<br><br>⚡ Fun fact: I love to AI World 
+ <a href="https://github.com/bhoop70233/AI-World" target="_blank">✍️
 </p>
 
 
